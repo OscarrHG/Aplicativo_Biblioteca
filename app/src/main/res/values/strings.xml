@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LibApp</string>
+
+    <string name="titulo_login">Biblioteca Municipal César Vallejo</string>
+    <string name="correo">Correo:</string>
+    <string name="Nombres">Nombres:</string>
+    <string name="Apellidos">Apellidos:</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="contrasena_conf">Confirmar Contraseña:</string>
+    <string name="inicio_sesion">Iniciar Sesión</string>
+    <string name="registro_user">Registrar Usuario</string>
+    <string name="btn_ingresar_sesion">Ingresar</string>
+    <string name="btn_crear_cuenta">Crear Cuenta</string>
+    <string name="contra_olvi">Has olvidado tu contraseña?</string>
+    <string name="btn_ir_registro">Registrarse</string>
+    <string name="buscar">Buscar:</string>
+    <string name="buscar_btn">Buscar Libro</string>
+
+    <string name="correo_hint">ejemplo@gmail.com</string>
+    <string name="apellidos_hint">Apellidos</string>
+    <string name="nombres_hint">Nombres</string>
+    <string name="contra_hint">************</string>
+    <string name="busqueda_hint">Título del libro...</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
