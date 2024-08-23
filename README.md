@@ -1,11 +1,7 @@
 <h1 align="center">LibraryApp 📚</h1>
 
 <p align="center">
-  <strong>Una aplicación básica de biblioteca desarrollada en Java para Android</strong>
-</p>
-
-<p align="center">
-  <img src="ruta/a/imagen_principal.png" alt="Imagen principal de la aplicación" width="300">
+  <strong>LibraryApp es una aplicación básica de biblioteca desarrollada en Java para Android. Permite a los usuarios crear y administrar cuentas, explorar un catálogo de libros, agregar libros a favoritos y gestionar su perfil personal. La aplicación mantiene el estado del usuario, por lo que no es necesario iniciar sesión cada vez que se abre.</strong>
 </p>
 
 ## **Características** ✨
@@ -39,13 +35,15 @@
 
 ## **Capturas de Pantalla** 📸
 
-<p align="center">
-  <img src="ruta/a/imagen_login.png" alt="Inicio de Sesión" width="200">
-  <img src="ruta/a/imagen_catalogo.png" alt="Catálogo de Libros" width="200">
-  <img src="ruta/a/imagen_detalle_libro.png" alt="Detalle del Libro" width="200">
-  <img src="ruta/a/imagen_favoritos.png" alt="Favoritos" width="200">
-  <img src="ruta/a/imagen_perfil.png" alt="Perfil del Usuario" width="200">
-</p>
+<p>Inserta aquí capturas de pantalla de las diferentes secciones de la aplicación, como:</p>
+
+<ul>
+  <li><strong>Pantalla de Inicio de Sesión/Registro:</strong></li>
+  <li><strong>Catálogo de Libros:</strong></li>
+  <li><strong>Detalle del Libro:</strong></li>
+  <li><strong>Favoritos:</strong></li>
+  <li><strong>Perfil del Usuario:</strong></li>
+</ul>
 
 ## **Instalación** 🛠️
 
@@ -82,4 +80,3 @@
 ## **Licencia** 📄
 
 <p>Este proyecto está licenciado bajo la <a href="LICENSE">MIT License</a>.</p>
-
