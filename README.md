@@ -66,7 +66,7 @@
 
 <ol>
   <li><strong>Clona el repositorio:</strong>
-    <pre><code>git clone https://github.com/tu_usuario/nombre_repositorio.git</code></pre>
+    <pre><code>git clone https://github.com/OscarrHG/Aplicativo_Biblioteca_Municipal.git</code></pre>
   </li>
   <li><strong>Abre el proyecto en Android Studio:</strong>
     <ul>
