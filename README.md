@@ -39,20 +39,25 @@
 
 <ul>
   <li><strong>Pantalla de Inicio de Sesión/Registro:</strong></li>
+  
   ![image](https://github.com/user-attachments/assets/af95eabd-8e1f-4223-812a-a04bc5ff768d)
   
   ![image](https://github.com/user-attachments/assets/3f8c3faa-6700-47ed-9c52-5d5b79895ebf)
 
   <li><strong>Catálogo de Libros:</strong></li>
+  
   ![image](https://github.com/user-attachments/assets/3fcb0d9c-cb73-4e61-8600-71cb0426be09)
 
   <li><strong>Detalle del Libro:</strong></li>
+  
   ![image](https://github.com/user-attachments/assets/16357630-67b6-4561-9e68-b589232f3a8a)
 
   <li><strong>Favoritos:</strong></li>
+  
   ![image](https://github.com/user-attachments/assets/3b6b2c7a-6df3-4568-aa98-c04eb54f2211)
 
   <li><strong>Perfil del Usuario:</strong></li>
+  
   ![image](https://github.com/user-attachments/assets/4ceba4bc-a375-45ba-92f5-5e6549078af2)
 
 </ul>
