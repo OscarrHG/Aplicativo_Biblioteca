@@ -3,22 +3,23 @@ LibraryApp 📚
 LibraryApp es una aplicación básica de biblioteca desarrollada en Java para Android. Permite a los usuarios crear y administrar cuentas, explorar un catálogo de libros, agregar libros a favoritos y gestionar su perfil personal. La aplicación mantiene el estado del usuario, por lo que no es necesario iniciar sesión cada vez que se abre.
 
 Características ✨
-Inicio de Sesión y Registro de Usuarios:
 
-Crea una cuenta de usuario o inicia sesión en una cuenta existente.
-El estado del usuario se mantiene incluso después de cerrar y volver a abrir la aplicación.
-Exploración del Catálogo de Libros:
+1. Inicio de Sesión y Registro de Usuarios:
+* Crea una cuenta de usuario o inicia sesión en una cuenta existente.
+*El estado del usuario se mantiene incluso después de cerrar y volver a abrir la aplicación.
 
-Navega a través de un catálogo completo de libros disponibles.
-Haz clic en cualquier libro para ver detalles como el título, autor, año de publicación, género y una sinopsis.
-Búsqueda de libros por nombre para encontrar fácilmente lo que buscas.
-Favoritos:
+2. Exploración del Catálogo de Libros:
+*Navega a través de un catálogo completo de libros disponibles.
+*Haz clic en cualquier libro para ver detalles como el título, autor, año de publicación, género y una sinopsis.
+*Búsqueda de libros por nombre para encontrar fácilmente lo que buscas.
 
-Agrega libros a la lista de favoritos para un acceso rápido y fácil.
-Gestión de Perfil:
+3. Favoritos:
+*Agrega libros a la lista de favoritos para un acceso rápido y fácil.
 
-Visualiza y edita la información del usuario desde la sección de perfil.
-Inicia o cierra sesión fácilmente desde el perfil.
+4. Gestión de Perfil:
+*Visualiza y edita la información del usuario desde la sección de perfil.
+*Inicia o cierra sesión fácilmente desde el perfil.
+
 Capturas de Pantalla 📸
 Inserta aquí capturas de pantalla de las diferentes secciones de la aplicación, como:
 
