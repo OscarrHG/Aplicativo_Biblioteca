@@ -1,59 +1,85 @@
-LibraryApp 📚
+<h1 align="center">LibraryApp 📚</h1>
 
-LibraryApp es una aplicación básica de biblioteca desarrollada en Java para Android. Permite a los usuarios crear y administrar cuentas, explorar un catálogo de libros, agregar libros a favoritos y gestionar su perfil personal. La aplicación mantiene el estado del usuario, por lo que no es necesario iniciar sesión cada vez que se abre.
+<p align="center">
+  <strong>Una aplicación básica de biblioteca desarrollada en Java para Android</strong>
+</p>
 
-Características ✨
+<p align="center">
+  <img src="ruta/a/imagen_principal.png" alt="Imagen principal de la aplicación" width="300">
+</p>
 
-1. Inicio de Sesión y Registro de Usuarios:
-* Crea una cuenta de usuario o inicia sesión en una cuenta existente.
-*El estado del usuario se mantiene incluso después de cerrar y volver a abrir la aplicación.
+## **Características** ✨
 
-2. Exploración del Catálogo de Libros:
-*Navega a través de un catálogo completo de libros disponibles.
-*Haz clic en cualquier libro para ver detalles como el título, autor, año de publicación, género y una sinopsis.
-*Búsqueda de libros por nombre para encontrar fácilmente lo que buscas.
+<ul>
+  <li><strong>Inicio de Sesión y Registro de Usuarios:</strong>
+    <ul>
+      <li>Crea una cuenta de usuario o inicia sesión en una cuenta existente.</li>
+      <li>El estado del usuario se mantiene incluso después de cerrar y volver a abrir la aplicación.</li>
+    </ul>
+  </li>
+  <li><strong>Exploración del Catálogo de Libros:</strong>
+    <ul>
+      <li>Navega a través de un catálogo completo de libros disponibles.</li>
+      <li>Haz clic en cualquier libro para ver detalles como el título, autor, año de publicación, género y una sinopsis.</li>
+      <li>Búsqueda de libros por nombre para encontrar fácilmente lo que buscas.</li>
+    </ul>
+  </li>
+  <li><strong>Favoritos:</strong>
+    <ul>
+      <li>Agrega libros a la lista de favoritos para un acceso rápido y fácil.</li>
+    </ul>
+  </li>
+  <li><strong>Gestión de Perfil:</strong>
+    <ul>
+      <li>Visualiza y edita la información del usuario desde la sección de perfil.</li>
+      <li>Inicia o cierra sesión fácilmente desde el perfil.</li>
+    </ul>
+  </li>
+</ul>
 
-3. Favoritos:
-*Agrega libros a la lista de favoritos para un acceso rápido y fácil.
+## **Capturas de Pantalla** 📸
 
-4. Gestión de Perfil:
-*Visualiza y edita la información del usuario desde la sección de perfil.
-*Inicia o cierra sesión fácilmente desde el perfil.
+<p align="center">
+  <img src="ruta/a/imagen_login.png" alt="Inicio de Sesión" width="200">
+  <img src="ruta/a/imagen_catalogo.png" alt="Catálogo de Libros" width="200">
+  <img src="ruta/a/imagen_detalle_libro.png" alt="Detalle del Libro" width="200">
+  <img src="ruta/a/imagen_favoritos.png" alt="Favoritos" width="200">
+  <img src="ruta/a/imagen_perfil.png" alt="Perfil del Usuario" width="200">
+</p>
 
-Capturas de Pantalla 📸
-Inserta aquí capturas de pantalla de las diferentes secciones de la aplicación, como:
+## **Instalación** 🛠️
 
-Pantalla de Inicio de Sesión/Registro:
+<ol>
+  <li><strong>Clona el repositorio:</strong>
+    <pre><code>git clone https://github.com/tu_usuario/nombre_repositorio.git</code></pre>
+  </li>
+  <li><strong>Abre el proyecto en Android Studio:</strong>
+    <ul>
+      <li>Abre Android Studio y selecciona "Open an existing project".</li>
+      <li>Navega hasta la carpeta donde clonaste el repositorio y selecciónala.</li>
+    </ul>
+  </li>
+  <li><strong>Compila e instala:</strong>
+    <ul>
+      <li>Asegúrate de que tienes un dispositivo o emulador configurado.</li>
+      <li>Haz clic en "Run" para compilar e instalar la aplicación en tu dispositivo.</li>
+    </ul>
+  </li>
+</ol>
 
-Catálogo de Libros:
+## **Tecnologías Utilizadas** 💻
 
-Detalle del Libro:
+<ul>
+  <li><strong>Lenguaje:</strong> Java</li>
+  <li><strong>IDE:</strong> Android Studio</li>
+  <li><strong>Compatibilidad:</strong> Android 5.0 (Lollipop) y superior</li>
+</ul>
 
-Favoritos:
+## **Contribuciones** 🤝
 
-Perfil del Usuario:
+<p>Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, por favor abre un issue o envía un pull request.</p>
 
-Instalación 🛠️
-Clona el repositorio:
+## **Licencia** 📄
 
-bash
-Copiar código
-git clone https://github.com/tu_usuario/nombre_repositorio.git
-Abre el proyecto en Android Studio:
-
-Abre Android Studio y selecciona "Open an existing project".
-Navega hasta la carpeta donde clonaste el repositorio y selecciónala.
-Compila e instala:
-
-Asegúrate de que tienes un dispositivo o emulador configurado.
-Haz clic en "Run" para compilar e instalar la aplicación en tu dispositivo.
-Tecnologías Utilizadas 💻
-Lenguaje: Java
-IDE: Android Studio
-Compatibilidad: Android 5.0 (Lollipop) y superior
-Contribuciones 🤝
-Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, por favor abre un issue o envía un pull request.
-
-Licencia 📄
-Este proyecto está licenciado bajo la MIT License.
+<p>Este proyecto está licenciado bajo la <a href="LICENSE">MIT License</a>.</p>
 
