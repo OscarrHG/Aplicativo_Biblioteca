@@ -1,6 +1,6 @@
-<h1 align="center">LibraryApp 📚</h1>
+<h1>LibraryApp 📚</h1>
 
-<p align="center">
+<p>
   <strong>LibraryApp es una aplicación básica de biblioteca desarrollada en Java para Android. Permite a los usuarios crear y administrar cuentas, explorar un catálogo de libros, agregar libros a favoritos y gestionar su perfil personal. La aplicación mantiene el estado del usuario, por lo que no es necesario iniciar sesión cada vez que se abre.</strong>
 </p>
 
@@ -46,6 +46,7 @@
 </ul>
 
 ## **Instalación** 🛠️
+![image](https://github.com/user-attachments/assets/3e9b298c-309e-48a0-8b10-6d0160b3d49e)
 
 <ol>
   <li><strong>Clona el repositorio:</strong>
