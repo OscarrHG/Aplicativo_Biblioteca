@@ -40,6 +40,7 @@
 <ul>
   <li><strong>Pantalla de Inicio de Sesión/Registro:</strong></li>
   ![image](https://github.com/user-attachments/assets/af95eabd-8e1f-4223-812a-a04bc5ff768d)
+  
   ![image](https://github.com/user-attachments/assets/3f8c3faa-6700-47ed-9c52-5d5b79895ebf)
 
   <li><strong>Catálogo de Libros:</strong></li>
@@ -90,4 +91,4 @@
 
 ## **Licencia** 📄
 
-<p>Este proyecto está licenciado bajo la <a href="LICENSE">MIT License</a>.</p>
+<p>Este proyecto fue desarrollado completamente desde el inicio hasta el final por la persona propietaria del repositorio. En un principio la aplicacion tenia previsto contar con más funcionalidad, sientete libre de usar este proyecto como base e implementar más</p>
