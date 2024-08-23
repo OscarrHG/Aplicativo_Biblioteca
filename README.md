@@ -96,4 +96,4 @@
 
 ## **Licencia** 📄
 
-<p>Este proyecto fue desarrollado completamente desde el inicio hasta el final por la persona propietaria del repositorio. En un principio la aplicacion tenía previsto contar con más funcionalidades, sientete libre de usar este proyecto como base e implementar más secciones <a href="https://github.com/OscarrHG">Oscar HG</a>.</p>
+<p>Este proyecto fue desarrollado completamente desde el inicio hasta el final por la persona propietaria del repositorio. En un principio la aplicacion tenía previsto contar con más funcionalidades, sientete libre de usar este proyecto como base e implementar más secciones en el aplicativo. <a href="https://github.com/OscarrHG">Oscar HG</a> </p>
